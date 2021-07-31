@@ -18,7 +18,7 @@
     },
     methods: {
       searchBoxHandler() {
-        console.log('=======');
+        // console.log('=======');
         this.$emit('click')
       }
     },
